@@ -10,7 +10,7 @@
   
 ### Sobre mim
 - Desenvolvedor Web Frontend;
-- Atualmente estudando JavaScript e React;
+- Atualmente estudando JavaScript, Typescript e React;
 - Bacharel em Biotecnologia (UFBA)
   
 ##
