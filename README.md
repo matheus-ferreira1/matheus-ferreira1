@@ -10,7 +10,7 @@
   
 ### Sobre mim
 - *Fulltime learner* e apaixonado por tecnologia;
-- Desenvolvedor Web Frontend Jr, focando estudos em JavaScript, Styled Components e ReactJS;
+- Desenvolvedor Web Frontend Jr, focando estudos em JavaScript, TypeScript, Styled Components e ReactJS;
 - Estudante da Rocketseat;
 - Bacharel em Biotecnologia (UFBA)
   
