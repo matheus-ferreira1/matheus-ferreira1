@@ -1,5 +1,7 @@
 ## Olá! 👋
 
+Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
+
 <div align="center">
   <a href="https://github.com/matheus-ferreira1">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheus-ferreira1&show_icons=true?count_private=true&theme=dark"/>
@@ -9,10 +11,11 @@
 ##
   
 ### Sobre mim
+  
 - *Fulltime learner* e apaixonado por tecnologia;
-- Desenvolvedor Web Frontend Jr, focando estudos em JavaScript, TypeScript, Styled Components e ReactJS;
+- Desenvolvedor Web Frontend Jr, focando estudos em JavaScript, TypeScript e ReactJS;
 - Estudante da Rocketseat;
-- Bacharel em Biotecnologia (UFBA)
+- Bacharel em Biotecnologia (UFBA).
   
 ##
 
@@ -37,3 +40,16 @@
   <a href="https://www.linkedin.com/in/matheus-tavares-ferreira-383745134/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/matheusferr33" target="_blank">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank""></a>
 </div>
+  
+##
+ 
+<p align="center">
+ <i> Money can't give what the truth takes away. <i>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cmatheus-ferreira1.matheus-ferreira1" alt="visitor badge"/>       
+</p>
+
+
+ 
