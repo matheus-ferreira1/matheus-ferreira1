@@ -14,7 +14,7 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
   
 - *Fulltime learner* e apaixonado por tecnologia;
 - Desenvolvedor Web Frontend Jr, focando estudos em HTML, CSS (CSS in JS), JavaScript, TypeScript e ReactJS;
-- Estudante da Rocketseat;
+- Estudante de Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia (UFBA).
   
 ##
