@@ -6,6 +6,9 @@
 - Estudante de Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
 
+
+
+
 Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
   
 ##
@@ -36,8 +39,6 @@ Acesse o meu [portfolio](https://matheus-ferreira1.github.io).
 ##
 
 <div align="center">
-  <a href="https://github.com/matheus-ferreira1">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheus-ferreira1&show_icons=true?count_private=true&theme=dark"/>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ferreira1&layout=compact&theme=dark"/>
   <img height="160"  src="http://github-readme-streak-stats.herokuapp.com?user=matheus-ferreira1&theme=dark&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
     
