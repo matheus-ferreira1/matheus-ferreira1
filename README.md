@@ -3,7 +3,7 @@
   
 - *Fulltime learner* e apaixonado por tecnologia;
 - Desenvolvedor Web FullStack, com habilidades em HTML, CSS (CSS in JS), JavaScript, TypeScript, ReactJS, Node, Express e MongoDB;
-- Estudante de Análise e Desenvolvimento de Sistemas;
+- Graduando em Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
 
 
