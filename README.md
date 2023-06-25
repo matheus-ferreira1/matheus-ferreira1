@@ -2,7 +2,7 @@
 
   
 - *Fulltime learner* e apaixonado por tecnologia;
-- Desenvolvedor Web FullStack, com habilidades em HTML, CSS, JavaScript, ReactJS, Next, Node, Express e MongoDB;
+- Desenvolvedor Web FullStack, com habilidades em HTML, CSS, JS/TS, ReactJS, Next, Node, Express e MongoDB;
 - Graduando em Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
 
