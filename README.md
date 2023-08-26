@@ -3,7 +3,7 @@
   
 - *Fulltime learner* e apaixonado por tecnologia;
 - Desenvolvedor Web FullStack, com habilidades em HTML, CSS, JS/TS, ReactJS, Next, Node, Express e MongoDB;
-- Atualmente trabalhando com Delphi, Angular, PHP e SQL (Firebird e SQL Server;
+- Atualmente trabalhando com Delphi, Angular, PHP e SQL (Firebird e SQL Server);
 - Graduando em Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
 
