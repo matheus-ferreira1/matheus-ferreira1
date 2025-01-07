@@ -2,9 +2,9 @@
 
   
 - *Fulltime learner* e apaixonado por tecnologia;
-- Desenvolvedor Web FullStack, com habilidades em HTML, CSS, JS/TS, ReactJS, Next, Node, Express e MongoDB;
-- Atualmente trabalhando com Delphi, Angular, PHP e SQL (Firebird e SQL Server);
-- Graduando em Análise e Desenvolvimento de Sistemas;
+- Desenvolvedor Web com 3 anos de experiência. Minha expertise inclui o desenvolvimento fullstack utilizando JavaScript/TypeScript, com proficiência em libs/frameworks React e Node JS (Express e Nest), além de sólido conhecimento em Java, ecossistema Spring e bancos da dados relacionais (MySQL, Postgres, MS SQL Server) e não relacionais (MongoDB);
+- Atualmente trabalhando com React/NextJS, NestJS, TypeORM e MySQL;
+- Graduado em Análise e Desenvolvimento de Sistemas;
 - Bacharel em Biotecnologia.
 
 
